@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @urnowo
+Oh, hi. I didn't expect anyone would be here!.
 
-
-<!---
-urnowo/urnowo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Anyway, come and look around! I hope this mundane repository could interest you (somehow).
